@@ -1,12 +1,14 @@
 {
   "schemata":[
-    "public",
-    "report.lcappolys_c2",
-    "report.farmpolys_c2"
+   
+     "llbank0d67aec8bbbc4ee5b904574666c51a640403f072",
+
+    
+    "report.sa_farmpolys"
   ],
   "extensionConfig": {
     "farmpolysSearch": {
-       "search": "farmpolys_c2"
+       "search": "sa_farmpolys"
         }
     }
 }
