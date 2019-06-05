@@ -8,6 +8,7 @@
     "report.monitoring_farmpolys_c2",
     "report.monitoring_fields_c2",
     "report.nw_lcappolys_c2",
+     "report.nw_farmpolys_c2",
     
     "report.sa_farmpolys"
   ],
