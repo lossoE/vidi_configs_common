@@ -1,25 +1,35 @@
 {
   "schemata":[
-   
-     "llbank0d67aec8bbbc4ee5b904574666c51a640403f072",
-     "north_west",
-     "cropsuitability",
+    
+    "north_west",
+    "eastern_cape",
+    "western_cape",
+    "northern_cape",
+    "free_state",
+    "kwazulu_natal",
+    "gauteng",
+    "mpumalanga",
+    "limpopo",
+ 
+    
+    "cropsuitability",
 
     "report.monitoring_farmpolys_c2",
     "report.monitoring_fields_c2",
-    "report.nw_lcappolys_c2",
-    "report.nw_farmpolys_c2",
-    "report.free_state_fields_2019_c2",
-    "report.free_state_farms_2019_c2",
     
-    "report.ec_lcappolys_c2",
-    "report.fs_lcappolys_c2",
+    
+     "report.free_state_fields_2019_c2",
+     "report.free_state_farms_2019_c2",
+    
+     "report.ec_lcappolys_c2",
+     "report.fs_lcappolys_c2",
      "report.gt_lcappolys_c2",
      "report.kzn_lcappolys_c2",
      "report.lp_lcappolys_c2",
      "report.mp_lcappolys_c2",
      "report.nc_lcappolys_c2",
      "report.wc_lcappolys_c2",
+     "report.nw_lcappolys_c2",
     
     "report.ec_farmpolys_c2",
     "report.fs_farmpolys_c2",
@@ -29,6 +39,7 @@
     "report.mp_farmpolys_c2",
     "report.nc_farmpolys_c2",
     "report.wc_farmpolys_c2",
+    "report.nw_farmpolys_c2",
     
     
     
