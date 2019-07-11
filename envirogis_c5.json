@@ -1,8 +1,16 @@
 {
   "schemata":[
    
-     "llbank0d67aec8bbbc4ee5b904574666c51a640403f072",
-     "north_west",
+  "north_west",
+    "ec",
+    "wc",
+    "nc",
+    "fs",
+    "kzn",
+    "gp",
+    "mp",
+    "lp",
+    
      "cropsuitability",
 
     "report.monitoring_farmpolys_c2",
