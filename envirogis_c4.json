@@ -17,8 +17,28 @@
     
     "report.monitoring_farmpolys_c4",
     "report.monitoring_fields_c4",
+    
+    
+     "report.ec_lcappolys_c4",
+     "report.fs_lcappolys_c4",
+     "report.gt_lcappolys_c4",
+     "report.kzn_lcappolys_c4",
+     "report.lp_lcappolys_c4",
+     "report.mp_lcappolys_c4",
+     "report.nc_lcappolys_c4",
+     "report.wc_lcappolys_c4",
+     "report.nw_lcappolys_c4",
+    
+    "report.ec_farmpolys_c4",
+    "report.fs_farmpolys_c4",
+    "report.gt_farmpolys_c4",
+    "report.kzn_farmpolys_c4",
+    "report.lp_farmpolys_c4",
+    "report.mp_farmpolys_c4",
+    "report.nc_farmpolys_c4",
+    "report.wc_farmpolys_c4",
     "report.nw_farmpolys_c4",
-    "report.nw_lcappolys_c4",
+    
     
     "report.sa_farmpolys"
   ],
