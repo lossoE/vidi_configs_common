@@ -51,6 +51,9 @@
     "report.wc_farmpolys_c5",
     "report.nw_farmpolys_c5",
     
+    "report.coordinatepoints",
+    "report.allfarms",
+    
     
     
     "report.sa_farmpolys"
