@@ -1,0 +1,59 @@
+{
+  "schemata":[
+   
+    "afgri661ddd25c451c7b28f12df7c9a12a15a343003b4",
+	"apiuser",
+	
+    "nw",
+    "ec",
+    "wc",
+    "nc",
+    "fs",
+    "kzn",
+    "gt",
+    "mp",
+    "lp",
+    "daff",
+    
+     "cropsuitability",
+    
+    "report.monitoring_farmpolys_c4",
+    "report.monitoring_fields_c4",
+    
+    
+    "report.leaf_area_indicator_stats_c4",
+    "report.moisture_stress_indicator_stats_c4",
+    "report.photosynthetic_activity_indicator_stats_c4",
+    "report.plant_vigour_indicator_stats_c4",
+    "report.senescence_onset_indicator_stats_c4",
+    
+    
+     "report.ec_lcappolys_c4",
+     "report.fs_lcappolys_c4",
+     "report.gt_lcappolys_c4",
+     "report.kzn_lcappolys_c4",
+     "report.lp_lcappolys_c4",
+     "report.mp_lcappolys_c4",
+     "report.nc_lcappolys_c4",
+     "report.wc_lcappolys_c4",
+     "report.nw_lcappolys_c4",
+    
+    "report.ec_farmpolys_c4",
+    "report.fs_farmpolys_c4",
+    "report.gt_farmpolys_c4",
+    "report.kzn_farmpolys_c4",
+    "report.lp_farmpolys_c4",
+    "report.mp_farmpolys_c4",
+    "report.nc_farmpolys_c4",
+    "report.wc_farmpolys_c4",
+    "report.nw_farmpolys_c4",
+    
+    
+    "report.sa_farmpolys"
+  ],
+  "extensionConfig": {
+    "farmpolysSearch": {
+       "search": "sa_farmpolys"
+        }
+    }
+}
