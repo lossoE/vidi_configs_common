@@ -1,13 +1,6 @@
 {
   "schemata":[
-   
-    "gt",
     "agrisa",
-   
-
-     "report.gt_lcappolys_c5",
-    
-    "report.gt_farmpolys_c5",
     
     "report.sa_farmpolys"
   ],
