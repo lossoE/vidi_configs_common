@@ -1,6 +1,6 @@
 {
   "schemata":[
-   
+    "grain_storage",
     "nw",
     "ec",
     "wc",
