@@ -1,6 +1,5 @@
 {
   "schemata":[
-    "grain_storage",
     "nw",
     "ec",
     "wc",
@@ -10,6 +9,7 @@
     "gt",
     "mp",
     "lp",
+    "grain_storage",
 
     "afgri661ddd25c451c7b28f12df7c9a12a15a343003b4",
     "afgri02",
