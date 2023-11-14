@@ -10,6 +10,7 @@
 "ec.ec_soilcapi",
 "ec.ec_climcapf",
 "ec.ec_climcapi",
+"ec.ec_mod15",
 
 "fs.fs_terrcapf",
 "fs.fs_terrcapi",
