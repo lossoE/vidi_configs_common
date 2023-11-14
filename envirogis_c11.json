@@ -3,7 +3,8 @@
    
     "land_suitability",
     "agrisa",
-    
+
+     "ec.ec_terrcapf",
     "report.sa_farmpolys"
   ],
   "extensionConfig": {
