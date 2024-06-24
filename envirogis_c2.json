@@ -54,6 +54,16 @@
     "report.fs_01_shp",
     "report.gp_01_shp",
     "report.mp_01_shp",
+
+    "report.ec_farms",
+    "report.fs_farms",
+    "report.gt_farms",
+    "report.kzn_farms",
+    "report.lp_farms",
+    "report.mp_farms",
+    "report.nc_farms",
+    "report.wc_farms",
+    "report.nw_farms",
     
     "report.sa_farmpolys"
   ],
