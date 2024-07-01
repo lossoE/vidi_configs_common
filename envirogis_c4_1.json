@@ -6,12 +6,12 @@
     "report.monitoring_fields_c4",
     "report.monitoring_farmpolys_c4", 
     
-    "report.sa_farmpolys"
+    "elastic.es_sa_farm_poly_2024"
    
   ],
   "extensionConfig": {
     "farmpolysSearch": {
-       "search": "sa_farmpolys"
+       "search": "es_sa_farm_poly_2024"
         }
     }
 }
