@@ -31,6 +31,16 @@
       "report.nc_farmpolys_c5",
       "report.wc_farmpolys_c5",
       "report.nw_farmpolys_c5",
+
+      "report.ec_farmpolys_c2",
+      "report.fs_farmpolys_c2",
+      "report.gt_farmpolys_c2",
+      "report.kzn_farmpolys_c2",
+      "report.lp_farmpolys_c2",
+      "report.mp_farmpolys_c2",
+      "report.nc_farmpolys_c2",
+      "report.wc_farmpolys_c2",
+      "report.nw_farmpolys_c2",
   
       "report.ec_farms",
       "report.fs_farms",
