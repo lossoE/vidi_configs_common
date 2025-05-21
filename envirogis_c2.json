@@ -65,7 +65,9 @@
 
     "wc01.wcfb_2021_2023a",
     
-    "report.sa_farmpolys"
+    "report.sa_farmpolys",
+
+    "land_suitability"
   ],
   "extensionConfig": {
     "farmpolysSearch": {
