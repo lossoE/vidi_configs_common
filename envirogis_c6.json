@@ -45,6 +45,16 @@
     "report.nc_oct_24",
     "report.nw_oct_24",
     "report.wc_oct_24",
+
+    "report.web_ec",
+    "report.web_fs",
+    "report.web_gt",
+    "report.web_kn",
+    "report.web_lp",
+    "report.web_mp",
+    "report.web_nc",
+    "report.web_nw",
+    "report.web_wc",
     
     "wc01.wcfb_2021_2023a",
     
